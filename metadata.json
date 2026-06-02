@@ -1,0 +1,6 @@
+{
+  "name": "028教室校园空间导视系统",
+  "description": "基于数字孪生科技风格的校园空间导视与路径行为分析可视化系统",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
